@@ -15,6 +15,6 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Chatb
 
 - 🔭 Working on Python - JS - [DL,ML,React] Based Projects
 - 👯 Open for Collaborations 
-- 📫 Reach me on : https://www.linkedin.com/in/akhilsanker/
+- 📫 Reach me on : https://www.linkedin.com/in/akhilsanker/ , reekithak@gmail.com , https://www.instagram.com/akhilsank.er/
 - 👻 Languages : C++ ,Python ,JavaScript ,Html-Css ,MatLab
 - ⚡ Fun fact: I READ BOOKS
