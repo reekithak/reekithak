@@ -18,3 +18,5 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Chatb
 - 📫 Reach me on : https://www.linkedin.com/in/akhilsanker/ // reekithak@gmail.com // https://www.instagram.com/akhilsank.er/
 - 👻 Languages : C++ ,Python ,JavaScript ,Html-Css ,MatLab
 - ⚡ Fun fact: I READ BOOKS
+  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=true" alt="reekithak" /> </p>
