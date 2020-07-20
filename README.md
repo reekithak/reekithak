@@ -19,13 +19,8 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Chatb
 - 👻 Languages : C++ ,Python ,JavaScript ,Html-Css ,MatLab
 - ⚡ Fun fact: I READ BOOKS
 
-<html>
-   <head>STATUS</head>
-      <body style="background-color:grey;">
-            <p align="center">
+<p align="center" style="background-color:grey;">
 
-              <img src="https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=true" alt="reekithak" /> 
+   <img src="https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=true" alt="reekithak" /> 
 
-            </p>
-    </body>
-</html>
+</p>
