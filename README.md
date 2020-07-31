@@ -19,12 +19,6 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Chatb
 - 👻 Languages : C++ ,Python ,JavaScript ,Html-Css ,MatLab
 - ⚡ Fun fact: I READ BOOKS + I Game.
 
-<p align="center" style="background-color:grey;">
-
-   <img src="https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=true" alt="reekithak" /> 
-
-</p>
-
 
 ![Akhil Sanker Github Stats](https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=true)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reekithak&hide=css)](https://github.com/reekithak/github-readme-stats)
 
