@@ -1,8 +1,8 @@
 
 ![Let Through](https://github.com/reekithak/reekithak/blob/master/1.jpg)
 
-<h1 align="center"># Hi there 👋 :) </h1>
-<h1 align="center">## Akhil Sanker </h1>
+<h1 align="center"> Hi there 👋, I'm Akhil Sanker :) </h1>
+
 
 
 
