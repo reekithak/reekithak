@@ -3,7 +3,7 @@
 
 <h1 align="center"> Hi there 👋, I'm Akhil Sanker :) </h1>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reekithak" alt="reekithak" /> </p>
 
 
 
