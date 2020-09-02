@@ -1,5 +1,5 @@
 
-![Let Through](https://github.com/reekithak/reekithak/blob/master/1.jpg)
+#![Let Through](https://github.com/reekithak/reekithak/blob/master/1.jpg)
 
 <h1 align="center"> Hi there 👋, I'm Akhil Sanker :) </h1>
 
