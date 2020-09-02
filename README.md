@@ -1,11 +1,11 @@
 
 ![Let Through](https://github.com/reekithak/reekithak/blob/master/1.jpg)
 
-# Hi there 👋 :) 
+<h1 align="center"># Hi there 👋 :) </h1>
+<h1 align="center">## Akhil Sanker </h1>
 
 
 
-## Akhil Sanker
 
 **Undergrad Student, having a strong foundation in Machine Learning and Deep Learning concepts. Looking forward to excelling in the field of Data Science.
 My area of focus is "Computer Vision & Deep Learning", I've Been Working on Papers and Projects about the same.
