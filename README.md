@@ -19,7 +19,7 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Chatb
 - 📫 Reach me on : [LinkedIn](https://www.linkedin.com/in/akhilsanker/) , reekithak@gmail.com  , [Instagram](https://www.instagram.com/akhilsank.er/)
 - 👻 Languages : C++ ,Python ,JavaScript ,Html-Css ,MatLab
 - ⚡ Fun fact: I READ BOOKS + I Game.
-- ☃ Working at [Omdena](https://omdena.com/) for https://www.savethechildren.net/.
+- ☃ Working at [Omdena](https://omdena.com/) for [SaveTheChildren](https://www.savethechildren.net/).
 
 
 
