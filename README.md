@@ -42,6 +42,7 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Chatb
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=true" alt="reekithak" /></p>
 
 <p align="center">
+<a href="https://dev.to/reekithak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="reekithak" height="30" width="30" /></a>
 <a href="https://twitter.com/ak_iL_reEkit_H" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AkhilSanker" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/akhilsanker/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AkhilSanker" height="30" width="30" /></a>
 <a href="https://kaggle.com/reekithak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="AkhilSanker" height="30" width="30" /></a>
