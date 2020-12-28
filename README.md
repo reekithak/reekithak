@@ -20,6 +20,8 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Chatb
 - 👻 Languages : C++ ,Python ,JavaScript ,Html-Css ,MatLab
 - ⚡ Fun fact: I READ BOOKS + I Game.
 - ☃ Working at [Omdena](https://omdena.com/) for [SaveTheChildren](https://www.savethechildren.net/).
+- Machine Learning Developer at [Reallos](https://www.reallos.com/)
+- Front end Developer at [Ankor](https://ankor.us/)
 
 
 
