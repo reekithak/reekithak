@@ -24,7 +24,9 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Chatb
 - Front end Developer at [Ankor](https://ankor.us/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=true" alt="reekithak" /></p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reekithak&layout=compact)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reekithak)
 
 
