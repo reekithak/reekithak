@@ -23,10 +23,11 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Chatb
 - Machine Learning Developer at [Reallos](https://www.reallos.com/)
 - Front end Developer at [Ankor](https://ankor.us/)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reekithak)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reekithak&layout=compact)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=true" alt="reekithak" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reekithak&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reekithak)
+
+
 
 <p align="center">
 <a href="https://dev.to/reekithak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="reekithak" height="30" width="30" /></a>
