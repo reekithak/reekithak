@@ -23,8 +23,8 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Chatb
 - Machine Learning Developer at [Reallos](https://www.reallos.com/)
 - Front end Developer at [Ankor](https://ankor.us/)
 
-![T Akhil Sanker's github stats](https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reekithak&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reekithak)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reekithak&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=true" alt="reekithak" /></p>
 
