@@ -24,8 +24,6 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Chatb
 - Front end Developer at [Ankor](https://ankor.us/)
 
 ![T Akhil Sanker's github stats](https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reekithak&layout=compact)
-<br><br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reekithak&theme=radical)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=true" alt="reekithak" /></p>
