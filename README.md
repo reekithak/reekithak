@@ -21,7 +21,8 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Chatb
 - ⚡ Fun fact: I READ BOOKS + I Game.
 - ☃ Working at [Omdena](https://omdena.com/) for [SaveTheChildren](https://www.savethechildren.net/).
 - Machine Learning Developer at [Reallos](https://www.reallos.com/)
-- Front end Developer at [Ankor](https://ankor.us/)
+- Front end Developer at [Reallos](https://www.reallos.com/)
+- Machine Learning Developer at [AltRekruit](https://altrekruit.com/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=true" alt="reekithak" /></p>
 
