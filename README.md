@@ -17,12 +17,15 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Chatb
 - 🔭 Working on Python - JS - [DL,ML] Based Projects
 - 👯 Open for Collaborations 
 - 📫 Reach me on : [LinkedIn](https://www.linkedin.com/in/akhilsanker/) , reekithak@gmail.com  , [Instagram](https://www.instagram.com/akhilsank.er/)
-- 👻 Languages : C++ ,Python ,JavaScript ,Html-Css ,MatLab
-- ⚡ Fun fact: I READ BOOKS + I Game.
-- ☃ Working at [Omdena](https://omdena.com/) for [SaveTheChildren](https://www.savethechildren.net/).
-- Machine Learning Developer at [Reallos](https://www.reallos.com/)
-- Front end Developer at [Reallos](https://www.reallos.com/)
-- Machine Learning Developer at [AltRekruit](https://altrekruit.com/)
+- 👻 Languages : C ,C++ ,Python ,JavaScript ,Html-Css ,MatLab
+- ⚡ Fun fact: I READ BOOKS
+- ☃ Worked at [Omdena](https://omdena.com/) for [SaveTheChildren](https://www.savethechildren.net/)
+- Ex-Data Analyst at [Positive Integers](http://www.positiveintegers.com/)
+- Ex-Machine Learning Developer at [Reallos](https://www.reallos.com/)
+- Ex-Front end Developer at [Reallos](https://www.reallos.com/)
+- Ex-Machine Learning Developer at [AltRekruit](https://altrekruit.com/)
+- Currently Working on Personal Projects
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=true" alt="reekithak" /></p>
 
