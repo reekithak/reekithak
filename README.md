@@ -8,7 +8,7 @@
 
 
 
-**Undergraduate Student, having a strong foundation in Machine Learning and Deep Learning concepts. Looking forward to excelling in the field of Data Science.
+Undergraduate Student, having a strong foundation in Machine Learning and Deep Learning concepts. Looking forward to excelling in the field of Data Science.
 My area of focus is "Computer Vision, Natural Language Processing & Deep Learning", I've Been Working on Papers and Projects about the same.
 
 Currently Working on Personal Projects and DSA.
