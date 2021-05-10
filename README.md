@@ -1,7 +1,7 @@
 
 ![Let Through New](https://github.com/reekithak/reekithak/blob/master/1.jpg)
-
-<h1 align="center"> Hi there 👋, I'm Akhil Sanker :) </h1>
+ 
+<h1 align="center"> Hi there 👋, I'm Akhil Sanker, :) </h1>
 <h3 align="center">Student , Artificial Intelligence Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reekithak" alt="reekithak" /> </p>
