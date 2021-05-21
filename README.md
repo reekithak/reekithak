@@ -27,7 +27,7 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, DSA, 
 - Ex-Machine Learning Developer at [AltRekruit](https://altrekruit.com/)
 - Currently Working on Personal Projects
 
-![Akhil Sanker's GitHub stats](https://github-readme-stats.vercel.app/api?username=reekithak&theme=chartreuse-dark&show_icons=true&count_private=true)
+![Akhil Sanker's GitHub stats](https://github-readme-stats.vercel.app/api?username=reekithak&theme=dark&show_icons=true&count_private=true)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reekithak&count_private=true&theme=dark)" alt="reekithak" /></p>
  -->
