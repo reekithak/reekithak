@@ -31,7 +31,7 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, DSA, 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reekithak&count_private=true&theme=dark)" alt="reekithak" /></p>
  -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reekithak&layout=compact)](https://github.com/reekithak/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reekithak&layout=compact&theme=dark)](https://github.com/reekithak/github-readme-stats)
 
  
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reekithak&layout=compact) -->
