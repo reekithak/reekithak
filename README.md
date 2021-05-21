@@ -28,7 +28,7 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, DSA, 
 - Currently Working on Personal Projects
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=truea&count_private=true)" alt="reekithak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reekithak&show_icons=truea&count_private=true&theme=gotham)" alt="reekithak" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reekithak&layout=compact)
 
