@@ -27,7 +27,7 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, DSA, 
 - Ex-Machine Learning Developer at [AltRekruit](https://altrekruit.com/)
 - Currently Working on Personal Projects
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reekithak&theme=chartreuse-dark&show_icons=true&count_private=true)
+![Akhil Sanker's GitHub stats](https://github-readme-stats.vercel.app/api?username=reekithak&theme=chartreuse-dark&show_icons=true&count_private=true)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reekithak&count_private=true&theme=dark)" alt="reekithak" /></p>
  -->
@@ -35,7 +35,7 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, DSA, 
 
  
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reekithak&layout=compact) -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reekithak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Akhil Sanker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reekithak)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reekithak)
 
