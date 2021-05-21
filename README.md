@@ -38,7 +38,7 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, DSA, 
 <!-- [![Akhil Sanker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reekithak)](https://github.com/reekithak/github-readme-stats)
  -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reekithak)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reekithak&theme=dark)
 
 
 
