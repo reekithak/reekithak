@@ -2,17 +2,17 @@
 ![Let Through New](https://github.com/reekithak/reekithak/blob/master/1.jpg)
  
 <h1 align="center"> Hi there 👋, I'm Akhil Sanker, :) </h1>
-<h3 align="center">Student , Artificial Intelligence Researcher</h3>
+<h3 align="center">CSE-Student, Machine Learning Practitioner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reekithak" alt="reekithak" /> </p>
 
 
 
-Undergraduate Student, having a strong foundation in Machine Learning and Deep Learning concepts. Looking forward to excelling in the field of Data Science.
-My area of focus is "Computer Vision, Natural Language Processing & Deep Learning", I've Been Working on Papers and Projects about the same.
+Undergraduate Student, having a strong foundation in Machine Learning and Deep Learning concepts. My area of focus is "Computer Vision, Natural Language Processing, Deep Learning", I've Been Working on Papers and Projects about the same.<br>
+I've been lately practising Data Structures as well.
 
 Currently Working on Personal Projects and DSA.
-Fields of interest:- Deep Learning, Classical Machine Learning, Databases, DSA, Chatbots, Computer-Vision, NLP , AI** 
+Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Data Structures and Algorithms, Chatbots, Computer-Vision, NLP , AI** 
 
 
 - 🔭 Working on Python - JS - [DL,ML] Based Projects
