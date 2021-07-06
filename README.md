@@ -9,7 +9,7 @@
 
 
 Undergraduate Student, having a strong foundation in Machine Learning and Deep Learning concepts. My area of focus is "Computer Vision, Natural Language Processing, Deep Learning", I've Been Working on Papers and Projects about the same.<br>
-I've been lately practising Data Structures as well.
+I've been lately practising Data Structures and Algorithms as well.
 
 Currently Working on Personal Projects and DSA.
 Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Data Structures and Algorithms, Chatbots, Computer-Vision, NLP , AI** <br>
