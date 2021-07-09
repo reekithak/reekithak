@@ -14,7 +14,7 @@ I've been lately practising Data Structures and Algorithms as well.
 Currently Working on Personal Projects and DSA.
 Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Data Structures and Algorithms, Chatbots, Computer-Vision, NLP , AI** <br>
 
-Portfolio:- [Main Link](https://www.akhilsanker.codes/), [Backup Link](https://akhilsanker.herokuapp.com/)
+Portfolio:- [Main Link](https://www.akhilsanker.codes/) OR [Backup Link](https://akhilsanker.herokuapp.com/)
 
 - 🔭 Working on Python - JS - [DL,ML] Based Projects
 - 👯 Open for Collaborations 
