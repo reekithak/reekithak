@@ -39,7 +39,7 @@ Portfolio:- [Main Link](https://www.akhilsanker.codes/) OR [Backup Link](https:/
 <!-- [![Akhil Sanker's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reekithak)](https://github.com/reekithak/github-readme-stats)
  -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reekithak&theme=dark)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reekithak&theme=dark) -->
 
 
 
