@@ -16,17 +16,17 @@ Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Data 
 
 Portfolio:- [Main Link](https://www.akhilsanker.codes/) OR [Backup Link](https://akhilsanker.herokuapp.com/)
 
-- 🔭 Working on Python - JS - [DL,ML] Based Projects
+- 🔭 Working on Languages: Python, C++, JS, Html-CSS, Matlab
+- 👻 Tech: Deep Learning, Machine Learning, Data Engineering, DBMS, Data Science
 - 👯 Open for Collaborations 
 - 📫 Reach me on : [LinkedIn](https://www.linkedin.com/in/akhilsanker/) , reekithak@gmail.com  , [Instagram](https://www.instagram.com/akhilsank.er/)
-- 👻 Languages : C ,C++ ,Python ,JavaScript ,Html-Css ,MatLab
 - ⚡ Fun fact: I READ BOOKS
-- ☃ Worked at [Omdena](https://omdena.com/) for [SaveTheChildren](https://www.savethechildren.net/)
+- Ex-Machine Learning Engineer at [Omdena](https://omdena.com/) for [SaveTheChildren](https://www.savethechildren.net/)
 - Ex-Data Analyst at [Positive Integers](http://www.positiveintegers.com/)
 - Ex-Machine Learning Developer at [Reallos](https://www.reallos.com/)
 - Ex-Front end Developer at [Reallos](https://www.reallos.com/)
 - Ex-Machine Learning Developer at [AltRekruit](https://altrekruit.com/)
-- Currently Working on Personal Projects
+- Currently Working on Personal Projects & Papers
 
 ![Akhil Sanker's GitHub stats](https://github-readme-stats.vercel.app/api?username=reekithak&theme=dark&show_icons=true&count_private=true)
 
