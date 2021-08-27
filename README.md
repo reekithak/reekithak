@@ -26,7 +26,7 @@ Portfolio:- [Main Link](https://www.akhilsanker.codes/) OR [Backup Link](https:/
 - Ex-Machine Learning Developer at [Reallos](https://www.reallos.com/)
 - Ex-Front end Developer at [Reallos](https://www.reallos.com/)
 - Ex-Machine Learning Developer at [AltRekruit](https://altrekruit.com/)
-- Currently Working on Personal Projects & Papers
+- Currently Working on Personal Projects & Papers: [Reach](https://github.com/reekithak)
 
 ![Akhil Sanker's GitHub stats](https://github-readme-stats.vercel.app/api?username=reekithak&theme=dark&show_icons=true&count_private=true)
 
