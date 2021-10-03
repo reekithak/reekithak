@@ -2,7 +2,7 @@
 ![Let Through New](https://github.com/reekithak/reekithak/blob/master/1.jpg)
  
 <h1 align="center"> Hi there 👋, I'm Akhil Sanker, :) </h1>
-<h3 align="center">CSE-Student, Machine Learning Practitioner</h3>
+<h3 align="center">CSE-Student, Machine Learning Engineer, Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reekithak" alt="reekithak" /> </p>
 
