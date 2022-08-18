@@ -8,15 +8,15 @@
 
 
 
-Undergraduate Student, having a strong foundation in Machine Learning and Deep Learning concepts. My area of focus is "Computer Vision, Natural Language Processing, Deep Learning", I've Been Working on Papers and Projects about the same.<br>
-I've been lately practising Data Structures and Algorithms as well.
+Software Engineer, having a strong foundation in Machine Learning and Deep Learning.<br>
+Well Versed with Backend Development, Databases, API's. 
 
-Currently Working on Personal Projects and DSA.
+Currently Working as a Data-Automation Engineer at Bajaj Finserv Ltd.
 Fields of interest:- Deep Learning, Classical Machine Learning, Databases, Data Structures and Algorithms, Chatbots, Computer-Vision, NLP , AI** <br>
 
 Portfolio:- [Link](https://akhilsanker.herokuapp.com/)
 
-- 🔭 Working on Languages: Python, C++, JS, Html-CSS, Matlab
+- 🔭 Working on Languages: Python, C++, JS, Html-CSS, Java
 - 👻 Tech: Deep Learning, Machine Learning, Data Engineering, DBMS, Data Science
 - 👯 Open for Collaborations 
 - 📫 Reach me on : [LinkedIn](https://www.linkedin.com/in/akhilsanker/) , reekithak@gmail.com  , [Instagram](https://www.instagram.com/akhilsank.er/)
